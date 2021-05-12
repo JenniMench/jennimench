@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Jennilyn!
 
+<p>⚡ Experienced Frontend Developer with a demonstrated history of working in the information technology and services industry. </p>
+<p>⚡ Skilled in Javascript, and with solid experience in React with Typescript.</p>
+<p>🌱 Currently exploring Next.js and Tailwind Css. </p>
+
+<p>👯 Believes in TeamWork!!!</p>
+
+😄 I'm a fun person, don't be shy to <a href="www.linkedin.com/in/jennimench" target="blank">talk to me!</a> 
 <!--
 **JenniMench/jennimench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
